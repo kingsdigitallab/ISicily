@@ -87,7 +87,7 @@
             <category xml:id="text_condition.lost">
                 <catDesc><gloss>Lost</gloss></catDesc>
             </category>
-            <category xml:id="text-condition.unknown">
+            <category xml:id="text_condition.unknown">
                 <catDesc><gloss>Unknown text condition</gloss></catDesc>
             </category>
         </taxonomy>
@@ -1473,6 +1473,12 @@
                         <ref type="Getty">http://vocab.getty.edu/page/aat/300410443</ref>
                     </catDesc>
              </category>
+            <category xml:id="function.expressive.explicit">
+                <catDesc>
+                    <gloss>Explicit</gloss>
+                    <ref type="FAIR">https://ontology.inscriptiones.org/type_of_inscription/Explicit</ref>
+                  </catDesc>
+            </category>
         </taxonomy>
         
         <!-- ************** Execution of text ************** -->
