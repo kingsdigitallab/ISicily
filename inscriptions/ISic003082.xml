@@ -95,7 +95,7 @@
                     </physDesc>
                     <history>
                         <origin>
-                            <origPlace>
+                            <origPlace><region>Sicilia</region>
                                 <placeName type="ancient" ref="http://pleiades.stoa.org/places/462506">Tauromenium</placeName>		
                                 <placeName type="modern" ref="http://sws.geonames.org/2522975">Taormina</placeName>
                             	<geo>37.85358, 15.28851</geo>
@@ -208,7 +208,7 @@
                     <lb n="9"/><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="10"/><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="11"/><gap reason="lost" extent="unknown" unit="character"/><w part="F">κόσια</w> τρισχίλια τάλαντα <space unit="character" extent="unknown"/>
-                    <lb n="12"/>Καρνείου <supplied reason="lost"><roleName type="civic" subtype="proboulos"><abbr>πρ</abbr></roleName></supplied> <persName type="attested"><gap reason="lost" extent="unknown" unit="character"/><name><w part="F">ου</w></name> <orgName type="deme"><abbr>Οιτ</abbr></orgName> <roleName type="civic.religious" subtype="hieromnamon">ἱερομναμόνοις</roleName>
+                    <lb n="12"/>Καρνείου <supplied reason="lost"><roleName type="civic" subtype="proboulos"><abbr>πρ</abbr></roleName></supplied> <persName type="attested"><gap reason="lost" extent="unknown" unit="character"/><name><w part="F">ου</w></name> <orgName type="deme"><abbr>Οιτ</abbr></orgName></persName> <roleName type="civic.religious" subtype="hieromnamon">ἱερομναμόνοις</roleName>
                      <lb n="13"/>ἔσοδος<gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="14"/><gap reason="lost" extent="unknown" unit="character"/>
                         <lb n="15"/><gap reason="lost" extent="unknown" unit="character"/>
